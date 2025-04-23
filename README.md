@@ -64,9 +64,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/git.png" alt="Git" style="margin: 10px;"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="GitHub" style="margin: 10px;"/>
-  </a>
 
   <!-- Web3 & Blockchain -->
   <a href="https://ethereum.org/en/" target="_blank">
@@ -74,9 +71,6 @@
   </a>
   <a href="https://soliditylang.org/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=4ntirgeCBoIh&format=png&color=000000" alt="Solidity" style="margin: 10px;"/>
-  </a>
-  <a href="https://trufflesuite.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/2165929?s=200&v=4" alt="Truffle" width="48" height="48" style="margin: 10px;"/>
   </a>
   <a href="https://hardhat.org/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" alt="Hardhat" width="48" height="48" style="margin: 10px;"/>
@@ -89,7 +83,7 @@
 
 
 <br/>
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center"> My GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/ahmet" target="_blank">
@@ -133,11 +127,6 @@
   </a>
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=12463&format=png&color=FFFFFF" alt="Instagram 3" style="margin: 10px;"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Arknight007" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" style="margin: 10px;"/>
   </a>
 
   <!-- Email -->
