@@ -1,18 +1,18 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srikar (@Arknight007)</h1>
+
 <div align="center">
-    <a href="#">
-        <img width="50%" src="https://raw.githubusercontent.com/Arknight007/nonepic/main/68747470733a2f2f7777772e636f72656c647261772e636f6d2f7374617469632f636467732f696d616765732f6c6561726e2f67756964652d746f2d766563746f722d64657369676e2f63686f6f73696e672d766563746f722d736f6674776172652f69.png" style="max-height: 200px;" />
+    <a href="##">
+        <img width="60%" src="https://raw.githubusercontent.com/Arknight007/nonepic/main/68747470733a2f2f7777772e636f72656c647261772e636f6d2f7374617469632f636467732f696d616765732f6c6561726e2f67756964652d746f2d766563746f722d64657369676e2f63686f6f73696e672d766563746f722d736f6674776172652f69.png" style="max-height: 250px;" />
     </a>
 </div>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Srikar (@Arknight007)</h1>
 <h3 align="center">I'm passionate about contributing to cutting-edge open-source projects, with a focus on C++, Java, and Data Structures & Algorithms.</h3>
 
 ## <img src="https://img.icons8.com/?size=40&id=rjxhc5dkiDUM&format=png&color=000000"/> About Me
 
 - 👀 I’m passionate about contributing to cutting-edge open-source projects, with a focus on C++, Java, and Data Structures and algorithms.
 - 🤖 I’m also exploring the realms of Machine Learning, namely Langchain DevOps, Generative AI, and neural networking, to create intelligent systems that can learn and evolve.
-- 🌐 I’m currently diving deep into full-stack development, mastering frameworks like ReactJS, AngularJS, NodeJS, and TypeScript, to build robust and scalable web applications.
+- 🌐 I’m diving deep into full-stack development, mastering frameworks like ReactJS, AngularJS, NodeJS, and TypeScript, to build robust and scalable web applications.
 - 🛡️ I’m eager to collaborate on projects that push the boundaries of algorithm optimization, data processing, or modern web development.
 - 📫 How to reach me: Drop me a line at [Knightark007@gmail.com](mailto:Knightark007@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/srikar-molahalli-b4b530284/).
 - ⚡ Fun fact: I’m a coding competition enthusiast and love cracking complex algorithms JUST for FUN!
@@ -54,7 +54,7 @@
 
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/?size=50&id=8rKdRqZFLurS&format=png&color=000000" alt="MongoDB" style="margin: 10px;"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" style="margin: 10px;"/>
@@ -100,9 +100,6 @@
     />
   </a>
 </p>
-
-
-
 
 ## 🌐 Connect with Me
 
